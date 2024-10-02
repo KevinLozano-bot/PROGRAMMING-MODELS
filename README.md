@@ -34,7 +34,7 @@ In this paradigm, logical rules are used to express facts and queries.
 **Common languages:** Prologue, Mercury.
 
 
-Programming models project
+## Programming models project
 
 1). Design patterns
 
