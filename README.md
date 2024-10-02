@@ -33,47 +33,35 @@ In this paradigm, logical rules are used to express facts and queries.
 
 **Common languages:** Prologue, Mercury.
 
-## How to execute
 
-To run the examples, make sure you have the appropriate compilers/interpreters installed for each language.
+Programming models project
 
-# Programming Models Project
+1). Design patterns
 
-Este proyecto tiene como objetivo proporcionar diferentes modelos y herramientas que ayuden a comprender sistemas desde los más pequeños hasta los más complejos. Se busca no solo encontrar soluciones a dichos sistemas, sino también conocer los diferentes campos laborales en los que un programador puede desarrollarse.
+2). Creative patterns
 
-## Contenidos del Proyecto
+3). Structural patterns
 
-### 1. Patrones de Diseño
-Exploración de patrones que proporcionan soluciones a problemas comunes en el desarrollo de software.
+3). Patterns of behavior
 
-### 2. Patrones Creativos
-Patrones que abordan la creación de objetos, haciendo hincapié en la reutilización y flexibilidad.
+4). Anti-patron
 
-### 3. Patrones Estructurales
-Patrones que se ocupan de la composición de clases y objetos para formar estructuras más grandes.
+5). Components
 
-### 4. Patrones de Comportamiento
-Patrones que se centran en la interacción y comunicación entre objetos y clases.
+The idea of the project is to be able to provide different models and tools that help me understand 
+from the smallest system to the most complex system and be able to find the solution to them also to know how 
+the different fields of work work where I can develop myself as a programmer
 
-### 5. Anti-Patrones
-Patrones que indican soluciones comunes que generalmente conducen a malas prácticas o resultados negativos.
+First advance (October fourth)
 
-### 6. Componentes
-Los componentes serán fundamentales para la organización modular de los sistemas y la implementación de soluciones.
+- User Stories
 
-## Objetivo del Proyecto
-El propósito es ofrecer modelos y herramientas que permitan comprender el funcionamiento de sistemas, encontrar soluciones óptimas y tener una visión clara de los diferentes campos donde un programador puede desarrollarse.
+- CRC cards
 
-## Primer Avance (4 de octubre)
-Para el primer avance del proyecto, se deben presentar los siguientes elementos:
+- Class diagram
 
-- **Historias de Usuario (User Stories):** Descripción de cómo los diferentes usuarios interactúan con el sistema.
-- **Tarjetas CRC:** Para documentar las responsabilidades de clases y la colaboración entre ellas.
-- **Diagrama de Clases:** Representación gráfica de las clases que componen el sistema, sus atributos, métodos y relaciones.
+At least we must present these three items but a more detailed report of the project must also be made
 
-### Detalles Adicionales
-Además de los elementos mencionados, se debe presentar un informe más detallado del progreso del proyecto que incluya explicaciones de las decisiones tomadas y una descripción del enfoque general del sistema.
 
-## Futuras Entregas
-Se espera que a lo largo del proyecto se entreguen modelos adicionales y herramientas más detalladas para profundizar en la comprensión y resolución de problemas en sistemas complejos.
+
 
